@@ -1,0 +1,7 @@
+В demo написано: "Create release branch with human (master) in boots (boots branch) and hat (hat branch)."
+В master добавлено: "Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)"
+
+
+Также разные слияния веток:
+в master были влиты ветки boots, hat и boots_buttons
+а в demo - ветки boots и buttons
