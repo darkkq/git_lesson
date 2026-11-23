@@ -5,3 +5,19 @@
 Также разные слияния веток:
 в master были влиты ветки boots, hat и boots_buttons
 а в demo - ветки boots и buttons
+
+
+
+
+КОММЕНТЫ ИЗ MASTER:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge branch 'refs/heads/boots' into boots_buttons
+Merge branch 'refs/heads/buttons' into boots_buttons
+Merge branch 'refs/heads/hat'
+Merge branch 'refs/heads/boots_buttons'
+Добавить hometask
